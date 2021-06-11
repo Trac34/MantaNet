@@ -1,5 +1,5 @@
 # MantaNet
-Manta-ray Net-hunter flashing script.
+Mantaray NetHunter flashing script.
 
 Still a work in progress.
 
